@@ -1,76 +1,53 @@
 #include<iostream>
-#include<iomanip>
 #include<stdio.h>
-#include<string>
-#include<string.h>
-#include<math.h>
-#include<algorithm>
-#include<stdlib.h>
-#include<unordered_map>
-#include<vector>
+#include <unordered_map>
 using namespace std;
  
-#define MIN(a,b) (((a)<(b))?(a):(b))
-#define MAX(a,b) (((a)>(b))?(a):(b))
+int main() {
+    freopen("Inputs/b.txt", "r", stdin); // Reading from input file
+    freopen("Output/b1_out.txt", "w", stdout); // Writing to output file
  
-long long gcd(long long a, long long b) {
-    if(a==0) return b;
-    return gcd(b%a, a);
-}
-long long lcm(long long a, long long b) {
-    return ( (a/gcd(a,b)) * b );
-}
-
-const int INF = 1000000000;
-vector<vector<pair<int, int>>> adj;
-
-void dijkstra(int s, vector<int> & d, vector<int> & p) {
-    int n = adj.size();
-    d.assign(n, INF);
-    p.assign(n, -1);
-    vector<bool> u(n, false);
-
-    d[s] = 0;
-    for (int i = 0; i < n; i++) {
-        int v = -1;
-        for (int j = 0; j < n; j++) {
-            if (!u[j] && (v == -1 || d[j] < d[v]))
-                v = j;
+    int D,I,S,V,F;
+    int B[10000],E[10000],L[10000],P[10000];
+    string sn;
+    int i,j,k,l,n,sn4[10000],sn6[1][1],sn5[10000],car_no=1;
+ 
+    unordered_map<string, int> sn2;
+    unordered_map<int, string> sn3;
+ 
+    scanf("%d %d %d %d %d",&D,&I,&S,&V,&F);
+ 
+    n=0;
+    for(i=0;i<S;i++) {
+        scanf("%d %d",&B[i],&E[i]);        
+        cin >> sn;                
+        sn2[sn]=n; sn3[n]=sn;        
+        sn4[i]=n;
+        n++;         
+        scanf("%d",&L[i]);
+    }
+    l=0;
+    for(i=0;i<V;i++) {
+        scanf("%d\n",&P[i]);
+        for(j=0;j<P[i];j++) {                      
+            cin >> sn;
+            if(i==car_no) sn5[l++]=sn2[sn];            
+            sn6[0][0]=sn2[sn];       
         }
-
-        if (d[v] == INF)
-            break;
-
-        u[v] = true;
-        for (auto edge : adj[v]) {
-            int to = edge.first;
-            int len = edge.second;
-
-            if (d[v] + len < d[to]) {
-                d[to] = d[v] + len;
-                p[to] = v;
+    }
+ 
+    l=0;
+    printf("%d\n",P[car_no]-1);
+    for(i=0;i<P[car_no]-1;i++) {              
+        for(j=0;j<S;j++) {
+            if(sn5[i]==sn4[j]) {
+                printf("%d\n1\n",E[j]);                
+                cout << sn3[sn5[l++]] << " ";               
+                printf("2\n");                     
+                break;
             }
         }
     }
-}
-
-vector<int> restore_path(int s, int t, vector<int> const& p) {
-    vector<int> path;
-
-    for (int v = t; v != s; v = p[v])
-        path.push_back(v);
-    path.push_back(s);
-
-    reverse(path.begin(), path.end());
-    return path;
-}
-
- 
-int main() {
-    freopen("input/trail.txt", "r", stdin); // Reading from input file
-    freopen("output/trail.txt", "w", stdout); // Writing to output file
- 
-    
  
     return 0;
 }
