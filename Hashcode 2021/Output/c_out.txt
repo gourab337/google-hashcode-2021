@@ -1,0 +1,43 @@
+14
+2841
+1
+ciec-cieb 2
+2743
+1
+cieb-ched 2
+2742
+1
+ched-chec 2
+2668
+1
+chec-cggi 2
+2594
+1
+cggi-cfje 2
+2520
+1
+cfje-cfca 2
+2519
+1
+cfca-cfbj 2
+2421
+1
+cfbj-cecb 2
+2325
+1
+cecb-cdcf 2
+2324
+1
+cdcf-cdce 2
+2323
+1
+cdce-cdcd 2
+2251
+1
+cdcd-ccfb 2
+2179
+1
+ccfb-cbhj 2
+2180
+1
+cbhj-cbia 2

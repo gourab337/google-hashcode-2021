@@ -1,0 +1,67 @@
+22
+382
+1
+bjfg-dic 2
+1315
+1
+dic-bdbf 2
+282
+1
+bdbf-cic 2
+1520
+1
+cic-bfca 2
+827
+1
+bfca-ich 2
+1985
+1
+ich-bjif 2
+864
+1
+bjif-ige 2
+1036
+1
+ige-badg 2
+1084
+1
+badg-baie 2
+449
+1
+baie-eej 2
+856
+1
+eej-ifg 2
+674
+1
+ifg-ghe 2
+1041
+1
+ghe-baeb 2
+567
+1
+baeb-fgh 2
+572
+1
+fgh-fhc 2
+793
+1
+fhc-hjd 2
+1271
+1
+hjd-bchb 2
+1265
+1
+bchb-bcgf 2
+1096
+1
+bcgf-bajg 2
+911
+1
+bajg-jbb 2
+1979
+1
+jbb-bjhj 2
+1890
+1
+bjhj-bija 2

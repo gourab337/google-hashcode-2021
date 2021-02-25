@@ -8,9 +8,9 @@ int main() {
     freopen("Output/b_out.txt", "w", stdout); // Writing to output file
  
     int D,I,S,V,F;
-    int B[9104],E[9104],L[9104],P[9104];
+    int B[40000],E[40000],L[40000],P[40000];
     string sn,sn5;
-    int i,j,k,sn3[9104],n,cs[9104][9104],n2;
+    int i,j,k,l,sn3[40000],n,cs[1][1],n2,sn6[40000];
  
     unordered_map<string, int> sn2;
     unordered_map<int, string> sn4;
@@ -26,28 +26,29 @@ int main() {
         n++;         
         scanf("%d",&L[i]);
     }
+    l=0;
     for(i=0;i<V;i++) {
         scanf("%d\n",&P[i]);
-        for(j=0;j<P[i];j++) {            
-            cin >> sn;            
-            cs[i][j]=sn2[sn];         
+        for(j=0;j<P[i];j++) {                      
+            cin >> sn;
+            if(i==0) sn6[l++]=sn2[sn];            
+            cs[0][0]=sn2[sn];         
         }
     }
  
+    l=0;
     printf("%d\n",P[0]-1);
-    for(i=0;i<P[0]-1;i++) {       
+    for(i=0;i<P[0]-1;i++) {              
         for(j=0;j<S;j++) {
-            if(cs[0][i]==sn3[j]) {
+            if(sn6[i]==sn3[j]) {
                 printf("%d\n",E[j]);
                 printf("1\n");
-                cout << sn4[cs[0][i]] << " ";                
+                cout << sn4[sn6[l++]] << " ";                
                 printf("2\n");                              
                 break;
             }
         }
     }
  
- 
     return 0;
 }
- 

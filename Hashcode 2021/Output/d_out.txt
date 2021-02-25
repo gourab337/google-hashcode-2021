@@ -1,0 +1,598 @@
+199
+2386
+1
+fiee-cdig 2
+1022
+1
+cdig-bacc 2
+4580
+1
+bacc-efia 2
+11
+1
+efia-bb 2
+3
+1
+bb-d 2
+97
+1
+d-jh 2
+5738
+1
+jh-fhdi 2
+1767
+1
+fhdi-bhgh 2
+39
+1
+bhgh-dj 2
+1323
+1
+dj-bdcd 2
+314
+1
+bdcd-dbe 2
+36
+1
+dbe-dg 2
+7482
+1
+dg-heic 2
+1828
+1
+heic-bici 2
+1285
+1
+bici-bcif 2
+834
+1
+bcif-ide 2
+6811
+1
+ide-gibb 2
+968
+1
+gibb-jgi 2
+141
+1
+jgi-beb 2
+4801
+1
+beb-eiab 2
+5380
+1
+eiab-fdia 2
+998
+1
+fdia-jji 2
+78
+1
+jji-hi 2
+303
+1
+hi-dad 2
+5610
+1
+dad-fgba 2
+2785
+1
+fgba-chif 2
+4344
+1
+chif-edee 2
+2491
+1
+edee-cejb 2
+6229
+1
+cejb-gccj 2
+2085
+1
+gccj-caif 2
+98
+1
+caif-ji 2
+3274
+1
+ji-dche 2
+406
+1
+dche-eag 2
+6452
+1
+eag-gefc 2
+4331
+1
+gefc-eddb 2
+7887
+1
+eddb-hiih 2
+4261
+1
+hiih-ecgb 2
+3728
+1
+ecgb-dhci 2
+635
+1
+dhci-gdf 2
+4797
+1
+gdf-ehjh 2
+412
+1
+ehjh-ebc 2
+2794
+1
+ebc-chje 2
+33
+1
+chje-dd 2
+393
+1
+dd-djd 2
+2618
+1
+djd-cgbi 2
+226
+1
+cgbi-ccg 2
+310
+1
+ccg-dba 2
+3796
+1
+dba-dhjg 2
+535
+1
+dhjg-fdf 2
+4774
+1
+fdf-ehhe 2
+3175
+1
+ehhe-dbhf 2
+272
+1
+dbhf-chc 2
+1559
+1
+chc-bffj 2
+5305
+1
+bffj-fdaf 2
+7195
+1
+fdaf-hbjf 2
+153
+1
+hbjf-bfd 2
+4395
+1
+bfd-edjf 2
+8
+1
+edjf-i 2
+284
+1
+i-cie 2
+4360
+1
+cie-edga 2
+6169
+1
+edga-gbgj 2
+2402
+1
+gbgj-ceac 2
+29
+1
+ceac-cj 2
+4229
+1
+cj-eccj 2
+32
+1
+eccj-dc 2
+210
+1
+dc-cba 2
+981
+1
+cba-jib 2
+388
+1
+jib-dii 2
+5193
+1
+dii-fbjd 2
+7236
+1
+fbjd-hcdg 2
+6121
+1
+hcdg-gbcb 2
+7298
+1
+gbcb-hcji 2
+1789
+1
+hcji-bhij 2
+2736
+1
+bhij-chdg 2
+7212
+1
+chdg-hcbc 2
+2103
+1
+hcbc-cbad 2
+1431
+1
+cbad-bedb 2
+5309
+1
+bedb-fdaj 2
+6069
+1
+fdaj-gagj 2
+525
+1
+gagj-fcf 2
+826
+1
+fcf-icg 2
+2257
+1
+icg-ccfh 2
+167
+1
+ccfh-bgh 2
+685
+1
+bgh-gif 2
+5839
+1
+gif-fidj 2
+4046
+1
+fidj-eaeg 2
+994
+1
+eaeg-jje 2
+713
+1
+jje-hbd 2
+49
+1
+hbd-ej 2
+777
+1
+ej-hhh 2
+7937
+1
+hhh-hjdh 2
+4063
+1
+hjdh-eagd 2
+2945
+1
+eagd-cjef 2
+728
+1
+cjef-hci 2
+1391
+1
+hci-bdjb 2
+654
+1
+bdjb-gfe 2
+2980
+1
+gfe-cjia 2
+4597
+1
+cjia-efjh 2
+5343
+1
+efjh-fded 2
+6763
+1
+fded-ghgd 2
+4480
+1
+ghgd-eeia 2
+401
+1
+eeia-eab 2
+1348
+1
+eab-bdei 2
+7558
+1
+bdei-hffi 2
+4821
+1
+hffi-eicb 2
+83
+1
+eicb-id 2
+139
+1
+id-bdj 2
+3868
+1
+bdj-digi 2
+6601
+1
+digi-ggab 2
+7401
+1
+ggab-heab 2
+7990
+1
+heab-hjja 2
+3965
+1
+hjja-djgf 2
+79
+1
+djgf-hj 2
+5843
+1
+hj-fied 2
+2676
+1
+fied-cghg 2
+7
+1
+cghg-h 2
+1005
+1
+h-baaf 2
+4542
+1
+baaf-efec 2
+4931
+1
+efec-ejdb 2
+3079
+1
+ejdb-dahj 2
+3013
+1
+dahj-dabd 2
+1175
+1
+dabd-bbhf 2
+156
+1
+bbhf-bfg 2
+836
+1
+bfg-idg 2
+120
+1
+idg-bca 2
+1468
+1
+bca-begi 2
+7526
+1
+begi-hfcg 2
+7210
+1
+hfcg-hcba 2
+485
+1
+hcba-eif 2
+4678
+1
+eif-eghi 2
+2412
+1
+eghi-cebc 2
+5027
+1
+cebc-fach 2
+4881
+1
+fach-eiib 2
+6388
+1
+eiib-gdii 2
+1556
+1
+gdii-bffg 2
+1480
+1
+bffg-beia 2
+7349
+1
+beia-hdej 2
+698
+1
+hdej-gji 2
+2286
+1
+gji-ccig 2
+112
+1
+ccig-bbc 2
+4239
+1
+bbc-ecdj 2
+3067
+1
+ecdj-dagh 2
+5256
+1
+dagh-fcfg 2
+750
+1
+fcfg-hfa 2
+667
+1
+hfa-ggh 2
+1085
+1
+ggh-baif 2
+185
+1
+baif-bif 2
+40
+1
+bif-ea 2
+1066
+1
+ea-bagg 2
+3713
+1
+bagg-dhbd 2
+1289
+1
+dhbd-bcij 2
+48
+1
+bcij-ei 2
+2258
+1
+ei-ccfi 2
+397
+1
+ccfi-djh 2
+275
+1
+djh-chf 2
+2455
+1
+chf-ceff 2
+6861
+1
+ceff-gigb 2
+7307
+1
+gigb-hdah 2
+4262
+1
+hdah-ecgc 2
+7787
+1
+ecgc-hhih 2
+4006
+1
+hhih-eaag 2
+2845
+1
+eaag-cief 2
+6833
+1
+cief-gidd 2
+28
+1
+gidd-ci 2
+63
+1
+ci-gd 2
+7137
+1
+gd-hbdh 2
+105
+1
+hbdh-baf 2
+37
+1
+baf-dh 2
+137
+1
+dh-bdh 2
+65
+1
+bdh-gf 2
+4861
+1
+gf-eigb 2
+1061
+1
+eigb-bagb 2
+2250
+1
+bagb-ccfa 2
+651
+1
+ccfa-gfb 2
+850
+1
+gfb-ifa 2
+6974
+1
+ifa-gjhe 2
+62
+1
+gjhe-gc 2
+6417
+1
+gc-gebh 2
+1634
+1
+gebh-bgde 2
+607
+1
+bgde-gah 2
+6962
+1
+gah-gjgc 2
+230
+1
+gjgc-cda 2
+883
+1
+cda-iid 2
+557
+1
+iid-ffh 2
+3022
+1
+ffh-dacc 2
+5890
+1
+dacc-fija 2
+5611
+1
+fija-fgbb 2
+597
+1
+fgbb-fjh 2
+3833
+1
+fjh-didd 2
+7172
+1
+didd-hbhc 2
+4568
+1
+hbhc-efgi 2
+2440
+1
+efgi-ceea 2
+5443
+1
+ceea-feed 2
+6412
+1
+feed-gebc 2
+542
+1
+gebc-fec 2
+1271
+1
+fec-bchb 2
+154
+1
+bchb-bfe 2
+4439
+1
+bfe-eedj 2
+4831
+1
+eedj-eidb 2
